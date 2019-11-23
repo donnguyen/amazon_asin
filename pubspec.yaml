@@ -1,5 +1,5 @@
 name: amazon_asin
-description: A starting point for Dart libraries or applications.
+description: Small package to Extract Amazon ASIN/ISBN from links
 version: 1.0.0
 homepage: https://spiderbox.design
 author: Don Nguyen <don@spiderbox.design>
