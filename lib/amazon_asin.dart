@@ -1,8 +1,5 @@
-/// Support for doing something awesome.
-///
-/// More dartdocs go here.
+/// Small package to Extract Amazon ASIN/ISBN from links
+
 library amazon_asin;
 
 export 'src/amazon_asin_base.dart';
-
-// TODO: Export any libraries intended for clients of this package.
