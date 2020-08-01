@@ -1,6 +1,6 @@
 name: amazon_asin
 description: Small package to Extract Amazon ASIN/ISBN from links
-version: 1.0.0
+version: 1.0.1
 homepage: https://spiderbox.design
 author: Don Nguyen <don@spiderbox.design>
 
